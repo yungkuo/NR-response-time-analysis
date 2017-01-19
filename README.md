@@ -1,5 +1,5 @@
 # NR-response-time-analysis <br/>
-## Testing voltage-sensing NR's response time <br/>
+### Testing voltage-sensing NR's response time <br/>
 ### Hardware <br/>
 532nm CW excitation <br/>
 H33D detector <br/>
