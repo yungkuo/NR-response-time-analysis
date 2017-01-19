@@ -1,8 +1,8 @@
 # NR-response-time-analysis <br/>
 ### Testing voltage-sensing NR's response time <br/>
 ### Notebooks viewer: <br/>
-http://nbviewer.jupyter.org/github/yungkuo/NR-response-time-analysis/blob/master/Single%20kQD%20fluorescence%20response%20%28100Hz%29.ipynb
-
+100 Hz: http://nbviewer.jupyter.org/github/yungkuo/NR-response-time-analysis/blob/master/Single%20kQD%20fluorescence%20response%20%28100Hz%29.ipynb
+1 kHz: http://nbviewer.jupyter.org/github/yungkuo/NR-response-time-analysis/blob/master/Single%20kQD%20fluorescence%20response%20%281000Hz%29.ipynb
 ### Hardware <br/>
 532nm CW excitation <br/>
 H33D detector <br/>
